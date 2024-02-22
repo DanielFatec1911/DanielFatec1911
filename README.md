@@ -1,14 +1,14 @@
 <!--título-->
   
-<h1 style="display: inline-block"> 🐭 oii, sou o Daniel</h1></summary>
+<h1 style="display: inline-block"> 🧠 oii, sou o Daniel</h1></summary>
 
 
 <!-- Presentation -->
 <p>
  
-  -  🦅 Estou atualmente me dedicando ao estudo de Desenvolvimento de Sistemas na Fatec. <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-000?style=for-the-badge" />
+  -  🌏 Estou atualmente me dedicando ao estudo de Desenvolvimento de Sistemas na Fatec. <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-000?style=for-the-badge" />
 
-  - 👾 Estou em busca da minha primeira oportunidade profissional, onde possa aplicar meu conhecimento tanto em desenvolvimento quanto em gestão de projetos, contribuindo assim para o crescimento da empresa.
+  - 🚀 Estou em busca da minha primeira oportunidade profissional, onde possa aplicar meu conhecimento tanto em desenvolvimento quanto em gestão de projetos, contribuindo assim para o crescimento da empresa.
 
 <!-- Dropdown -->
 
