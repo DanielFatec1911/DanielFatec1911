@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-97a3202a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-c6c6c6?style=for-the-badge&logo=gmail&logoColor=red)](https://www.mail.google.com/daniel.profissional1911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-c6c6c6?style=for-the-badge&logo=gmail&logoColor=red)](https://www.gmail.google.com/daniel.profissional1911@gmail.com)
 
 
 <!-- Portfolio -->
