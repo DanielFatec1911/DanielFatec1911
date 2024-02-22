@@ -1,35 +1,24 @@
 <!--título-->
   
-<h1 style="display: inline-block"> ...</h1></summary>
+<h1 style="display: inline-block"> 🐭 oii, sou o Daniel</h1></summary>
 
 
 <!-- Presentation -->
 <p>
  
-  - 🌱 Atualmente estou estudando Desenvolvimento de Sistemas AMS Fatec <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-000?style=for-the-badge" />
+  -  🦅 Estou atualmente me dedicando ao estudo de Desenvolvimento de Sistemas na Fatec. <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-000?style=for-the-badge" />
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Sonho em contribuir tando no desenvolvimento quanto na gestão de projetos
-</p>
+  - 👾 Estou em busca da minha primeira oportunidade profissional, onde possa aplicar meu conhecimento tanto em desenvolvimento quanto em gestão de projetos, contribuindo assim para o crescimento da empresa.
 
 <!-- Dropdown -->
-<details>
-  <summary>...</summary>
 
- - ..
 
-- ⚡Gosto de praticar esportes e conhecer algo novo, acredito q a moeda mais cara hoje em dia é o conhecimento, pois capacita-nos a enfrentar desafios, maior compreenção e tomar Decisões para assim contribuir \o/
 
-</details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-aparecido-carpim-de-souza-303934276/)
-[![Gmail](https://img.shields.io/badge/Gmail-c6c6c6?style=for-the-badge&logo=gmail&logoColor=red)](https://www.kaggle.com/variablebee)
-
-<!-- GithubStats -->
-![joaocarpim GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocarpim&show_icons=true&theme=radical)
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocarpim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="100" alt="languages graph"  />
+[![Instagram](instagram/)
+[![LinkedIn](linkedin)
+[![Gmail](email)
 
 
 <!-- Portfolio -->
