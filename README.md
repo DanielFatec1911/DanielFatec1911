@@ -18,7 +18,8 @@
 <!-- Links -->
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_ps_dan?igsh=c3pzejh1eHo4a2tr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-aparecido-carpim-de-souza-303934276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/daniel-silva-97a3202a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-c6c6c6?style=for-the-badge&logo=gmail&logoColor=red)](https://www.kaggle.com/variablebee)
 
 
