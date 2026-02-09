@@ -47,29 +47,3 @@
   <img align="center" alt="Estatística" src="https://img.shields.io/badge/Estatística_%26_Math-000?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <a href="https://github.com/DanielFatec1911">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula" alt="SEU_USUARIO_GITHUB" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/daniel-silva-97a3202a9/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:daniel.profissional1911@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
