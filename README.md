@@ -1,8 +1,6 @@
-# 🚀 Sobre Mim
-
-Olá! Sou o **Daniel**, um apaixonado por tecnologia transformando dados em soluções estratégicas. Minha jornada une a lógica do desenvolvimento de sistemas com a inteligência de negócios.
-<h3 align="center">Analista de Dados em Formação | Foco em SQL, Python & Business Intelligence</h3>
-
+Olá! Sou o **Daniel**, um apaixonado por tecnologia transformando dados em soluções estratégicas
+<h3 align="center">Analista de Dados 
+---
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Transformando+dados+em+decis%C3%B5es;Apaixonado+por+SQL+e+Python;Estudante+de+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
