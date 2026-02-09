@@ -36,8 +36,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="50" alt="Power BI" style="margin: 10px" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="50" width="50" alt="Tableau" style="margin: 10px" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" width="50" alt="Excel" style="margin: 10px" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="margin: 10px" />
