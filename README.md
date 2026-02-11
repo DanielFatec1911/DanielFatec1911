@@ -15,7 +15,7 @@
 
 Minha base técnica é focada em resolver problemas reais com tecnologia de ponta:
 
-* **Ciência de Dados** | Universidade Estácio de Sá *(Cursando)*
+* **Ciência de Dados** | Universidade Estácio *(Cursando)*
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** | FATEC Sorocaba *(Concluído)*
 * **Certificações AWS (Amazon Web Services):** Foco em Cloud Computing e arquitetura de soluções em nuvem, garantindo escalabilidade e segurança para projetos de dados.
 
