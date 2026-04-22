@@ -36,13 +36,13 @@ daniel = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Magic Nails Spa</h3>
+      <h3 align="center">Magic Nails Spa</h3>
       <p align="center">
         Site institucional responsivo desenvolvido para cliente real,
         atualmente no ar e em uso. Foco em conversão e UX.
         <br><br>
         <a href="https://magic-nails-glow.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/🔗 Ver site ao vivo-1A4E8A?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Ver site ao vivo-1A4E8A?style=for-the-badge" />
         </a>
       </p>
       <p align="center">
@@ -53,26 +53,22 @@ daniel = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📱 Molingo — ASAC</h3>
+      <h3 align="center">Molingo — ASAC</h3>
       <p align="center">
         Aplicativo mobile desenvolvido para instituição carente,
         com impacto social direto nos usuários da ASAC.
-        <br><br>
-        <a href="https://github.com/DanielFatec1911/ASAC" target="_blank">
-          <img src="https://img.shields.io/badge/🔗 Ver repositório-1A4E8A?style=for-the-badge" />
-        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Chatbot de Trading</h3>
+      <h3 align="center">Chatbot de Trading</h3>
       <p align="center">
         Chatbot em Python que simula compra de criptomoedas
         em corretora fictícia. API REST + Docker + front-end integrado.
         <br><br>
         <a href="https://github.com/DanielFatec1911/Chatbot-Int" target="_blank">
-          <img src="https://img.shields.io/badge/🔗 Ver repositório-1A4E8A?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Ver repositório-1A4E8A?style=for-the-badge" />
         </a>
       </p>
       <p align="center">
@@ -82,7 +78,7 @@ daniel = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚙️ Automações Corporativas</h3>
+      <h3 align="center">Automações Corporativas</h3>
       <p align="center">
         Scripts Python aplicados em ambiente real de trabalho para
         controle de KPIs, conferência de faturamento e eliminação
@@ -138,7 +134,7 @@ daniel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-97a3202a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.profissional1911@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Magic_Nails_(portfólio)-1A4E8A?style=for-the-badge)](https://magic-nails-glow.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Magic_Nails_(portfólio)-1A4E8A?style=for-the-badge)](https://magic-nails-glow.vercel.app)
 
 </div>
 
