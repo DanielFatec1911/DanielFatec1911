@@ -1,69 +1,45 @@
-<div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212257460-7080a294-f58c-4045-934c-687f8976b328.gif"  />
-  
-  <h1>Olá! Sou o Daniel 👋</h1>
-  <h3>Analista de Dados | Foco em Soluções Estratégicas</h3>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Transformando+dados+em+decis%C3%B5es;Apaixonado+por+SQL+e+Python;Estudante+de+Ci%C3%AAncia+de+Dados" alt="Typing SVG" />
-  </a>
-</div>
+# Olá! Sou o Daniel 👋
+
+### Desenvolvedor Web | Python & Django | JavaScript | AWS
 
 ---
 
-### 🎓 Formação Acadêmica & Certificações
+### 🚀 Sobre mim
 
-Minha base técnica é focada em resolver problemas reais com tecnologia de ponta:
+Desenvolvedor web em formação com projetos reais entregues em produção.
+Tenho base sólida em front-end (HTML, CSS, JavaScript) e estudo ativamente
+Python e Django para desenvolvimento back-end. Formado em ADS pela FATEC
+Sorocaba, com 3 certificações AWS.
 
-* **Ciência de Dados** | Universidade Estácio *(Cursando)*
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** | FATEC Sorocaba *(Concluído)*
-* **Certificações AWS (Amazon Web Services):** Foco em Cloud Computing e arquitetura de soluções em nuvem, garantindo escalabilidade e segurança para projetos de dados.
-
----
-
-### 💼 Carreira & Experiência
-
-Tenho orgulho de ter atuado em grandes players do mercado financeiro e de atendimento:
-
-**Analista Administrativo / Operacional @ Pulse (Parceira Santander)**
-* Atuei diretamente na operação de uma das maiores parceiras do **Banco Santander**, lidando com acompanhamento de dados operacionais críticos.
-* Desenvolvi visão analítica ao monitorar indicadores de performance (KPIs) e garantir a qualidade da informação em processos administrativos.
-* Essa experiência moldou minha capacidade de trabalhar com **alto volume de dados** e rigorosa precisão, essenciais para a área de análise.
+- 🌐 Site em produção: [magic-nails-glow.vercel.app](https://magic-nails-glow.vercel.app)
+- 📱 App mobile: Molingo — desenvolvido para a instituição ASAC
+- ⚙️ Automações com Python aplicadas em ambiente corporativo real
+- 🌩️ AWS Certified: Cloud Practitioner · Solutions Architect · Developer
 
 ---
 
-### 🎯 Objetivo Profissional
+### 🛠️ Tecnologias
 
-Meu foco é atuar como **Analista de Dados** ou **Engenheiro de Dados**, aplicando meu background em **SQL, Python e Cloud (AWS)** para criar pipelines de dados eficientes e dashboards que direcionam a tomada de decisão nas empresas.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="Santander" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 📌 Projetos em destaque
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" width="50" alt="R" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="SQL" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="Postgre" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" width="50" alt="Oracle" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="50" alt="Power BI" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" width="50" alt="Excel" style="margin: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="margin: 10px" />
-</div>
+| Projeto | Descrição | Tech |
+|--------|-----------|------|
+| [Magic Nails Spa](https://magic-nails-glow.vercel.app) | Site institucional em produção para cliente real | HTML · CSS · JS · Vercel |
+| [Molingo / ASAC](https://github.com/DanielFatec1911/ASAC) | App mobile para instituição carente | - |
 
-```
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-97a3202a9/)
