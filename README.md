@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4E8A,100:00D4FF&height=200&section=header&text=Daniel%20Silva&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20|%20Python%20%26%20Django%20|%20AWS&descAlignY=55&descSize=18" />
+
 
 </div>
 
