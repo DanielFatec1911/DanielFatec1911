@@ -1,14 +1,6 @@
 <div align="center">
 
-
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A8AFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Python+%26+Django+no+back-end+%F0%9F%90%8D;Projetos+reais+em+produ%C3%A7%C3%A3o+%F0%9F%8C%90;3x+AWS+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A8AFF&center=true&vCenter=true&width=600&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Projetos+reais+em+produ%C3%A7%C3%A3o+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,74 +11,74 @@
 ```python
 daniel = {
     "localização":   "Sorocaba, SP 🇧🇷",
-    "formação":      ["ADS - FATEC Sorocaba ✅", "Ciência de Dados - Estácio 📚"],
-    "foco":          "Desenvolvimento Web · Python · Django",
-    "em estudo":     ["Django", "REST APIs", "Docker"],
-    "certificações": ["AWS Cloud Practitioner", 
-                      "AWS Solutions Architect", 
-                      "AWS Developer"],
-    "diferencial":   "Projetos reais entregues em produção 🚀"
+    "formação":      ["ADS - FATEC Sorocaba ✅", 
+                      "Ciência de Dados - Estácio 📚",
+                      "Técnico ADS - ETEC Fernando Prestes ✅"],
+    "foco":          "Análise de Dados · Business Intelligence · SQL",
+    "stack":         ["SQL", "Python (Pandas, NumPy)", "Power BI (DAX)", "Excel Avançado"],
+    "em estudo":     ["Subqueries e CTEs", "DAX avançado", "BigQuery"],
+    "certificações": ["AWS Cloud Practitioner",
+                      "SQL para Análise de Dados - DataCamp",
+                      "Power BI para Data Analytics - Microsoft Learn",
+                      "Análise de Dados com Python - DataCamp"],
+    "diferencial":   "Experiência real com dados em ambiente corporativo 📊"
 }
 ```
 
 ---
 
-## 🚀 Projetos em Produção
+## 📊 Projetos de Dados
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Magic Nails Spa</h3>
+      <h3 align="center">Análise de Performance de Vendas</h3>
       <p align="center">
-        Site institucional responsivo desenvolvido para cliente real,
-        atualmente no ar e em uso. Foco em conversão e UX.
-        <br><br>
-        <a href="https://magic-nails-glow.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Ver site ao vivo-1A4E8A?style=for-the-badge" />
-        </a>
+        Análise completa de e-commerce fictício identificando padrões de compra,
+        churn de clientes e produtos com maior margem de lucro.
+        Dados tratados em SQL com CTEs e JOINs, visualização em Power BI.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Molingo — ASAC</h3>
+      <h3 align="center">Automação de Relatórios Financeiros</h3>
       <p align="center">
-        Aplicativo mobile desenvolvido para instituição carente,
-        com impacto social direto nos usuários da ASAC.
+        Script Python que lê, trata e consolida múltiplas planilhas financeiras
+        automaticamente. Redução de 90% no tempo de execução da tarefa
+        eliminando erros de copiar e colar.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Chatbot de Trading</h3>
+      <h3 align="center">Análise de Satisfação de Clientes</h3>
       <p align="center">
-        Chatbot em Python que simula compra de criptomoedas
-        em corretora fictícia. API REST + Docker + front-end integrado.
-        <br><br>
-        <a href="https://github.com/DanielFatec1911/Chatbot-Int" target="_blank">
-          <img src="https://img.shields.io/badge/Ver repositório-1A4E8A?style=for-the-badge" />
-        </a>
+        Cruzamento e análise de dados de satisfação identificando
+        padrões de avaliações negativas por categoria. Investigação de causa raiz
+        com geração de recomendações para a diretoria.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tabela Dinâmica-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Automações Corporativas</h3>
+      <h3 align="center">Molingo — App Educacional</h3>
       <p align="center">
-        Scripts Python aplicados em ambiente real de trabalho para
-        controle de KPIs, conferência de faturamento e eliminação
-        de retrabalho manual.
+        Aplicativo mobile desenvolvido para instituição social ASAC,
+        com impacto direto na comunidade.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=android&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -94,28 +86,51 @@ daniel = {
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack de Dados
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Back-end
+### Análise & Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Cloud & DevOps
+### Business Intelligence & Visualização
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Cloud & Versionamento
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Ferramentas
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 🎓 Certificações
+
+| Certificação | Plataforma |
+|---|---|
+| Fundamentos de SQL para Análise de Dados | DataCamp |
+| Análise de Dados com Python (Pandas & NumPy) | DataCamp |
+| Power BI para Data Analytics | Microsoft Learn |
+| Estatística e Probabilidade para Data Science | Coursera |
+| Modelagem e Normalização de Banco de Dados | Alura |
+| Excel Avançado para Análise de Dados | Udemy |
+| Git e GitHub para Versionamento de Dados | DIO |
+| AWS Cloud Practitioner Essentials | Amazon Web Services |
+
+---
+
+## 📈 Experiência com Dados
+
+**Francis Metais** — Auxiliar de Dados e Operações Financeiras *(Abril/2026 – Presente)*
+- Extração e estruturação de dados do ERP SATIS para relatórios gerenciais
+- Validação de dados fiscais (ICMS/IPI) garantindo integridade do faturamento
+- Monitoramento de KPIs financeiros e conciliação bancária
+
+**Pulse Contact Center (Santander)** — Analista Administrativo *(Jul/2024 – Abr/2025)*
+- Análise de dados de satisfação de clientes identificando padrões de avaliações
+- Implementação de controles de qualidade de dados em Excel
+- Apresentação de relatórios e recomendações para a diretoria
 
 ---
 
@@ -134,7 +149,6 @@ daniel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-97a3202a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.profissional1911@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Magic_Nails_(portfólio)-1A4E8A?style=for-the-badge)](https://magic-nails-glow.vercel.app)
 
 </div>
 
